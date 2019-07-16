@@ -23,4 +23,18 @@ end
 double_array
 end
 
-def 
+def map_to_square(source_array)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
