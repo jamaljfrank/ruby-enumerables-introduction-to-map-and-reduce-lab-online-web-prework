@@ -5,5 +5,6 @@ def map_to_negativize(array)
   do array[i] * -1
 end
 i += 1
+array
 end
   
