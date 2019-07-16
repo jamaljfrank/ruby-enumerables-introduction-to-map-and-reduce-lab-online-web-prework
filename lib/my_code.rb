@@ -9,7 +9,6 @@ neg_array
 end
   
 def map_to_no_change(source_array)
-  new_array = []
-  i = 0 
-  while i
+  new_array = source_array
+  puts new_array
 end
