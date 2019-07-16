@@ -11,5 +11,5 @@ end
 def map_to_no_change(source_array)
   new_array = []
   i = 0 
-  whil
+  while i
 end
