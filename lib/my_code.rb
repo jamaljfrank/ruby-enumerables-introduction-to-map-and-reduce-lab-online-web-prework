@@ -1,4 +1,4 @@
 def map_to_negativize
-  source_array.map { |j| j * 2}
+  map_to_negativize.map { |j| j * 2}
 end
   
