@@ -10,5 +10,5 @@ end
   
 def map_to_no_change(source_array)
   new_array = source_array
-  puts new_array
+  return new_array
 end
